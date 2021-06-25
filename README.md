@@ -10,13 +10,13 @@
 
 ## BGP and internet routing
 
-* Tools for watching, configuring, monitoring and reporting on the internet routing table
+* Tools for watching, configuring, monitoring and reporting on the internet routing table.
 
 * [BGPQ4] (https://github.com/bgp/bgpq4) - bgp filtering automation tool.
 
 ## Network Security and Reporting
 
-* Tools for network engineers to monitor, report and investigate IP addresses and securiry issues
+* Tools for network engineers to monitor, report and investigate IP addresses and securiry issues.
 
-* [Cisco Talos] (https://talosintelligence.com) - Threat intelligence by Cisco Systems
-* [AbuseIPDB] (https://www.abuseipdb.com/) - Abuse database for IPv4 and IPv6 addresses 
+* [Cisco Talos] (https://talosintelligence.com) - Threat intelligence by Cisco Systems.
+* [AbuseIPDB] (https://www.abuseipdb.com/) - Abuse database for IPv4 and IPv6 addresses.
