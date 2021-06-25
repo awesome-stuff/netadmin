@@ -10,6 +10,6 @@
 
 ## BGP and internet routing
 
-*Tools for watching, configuring, monitoring and reporting on the internet routing table
+* Tools for watching, configuring, monitoring and reporting on the internet routing table
 
 * [BGPQ4] (https://github.com/bgp/bgpq4) - bgp filtering automation tool.
